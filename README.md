@@ -4,7 +4,7 @@ An automation has an admin panel and a simple user panel.<br>
 In automation;<br>
 -In the admin panel;<br>
   *Can add-delete-update movie hall    (TR.Sinema salonu ekleyebilir-silebilir-düzenleyebilir).<br>
-  *Can add-delete-update movie         (TR.film ekleyebilir-silebilir-düzenleyebilir).<br>
+  *Can add-delete-update movie         (TR.Film ekleyebilir-silebilir-düzenleyebilir).<br>
   *Can add-delete-update user          (TR.Yeni izleyici ekleyebilir-silebilir-düzenleyebilir).<br>
   *Can add-delete-update movie hall    (TR.Sinema salonu ekleyebilir-silebilir-düzenleyebilir).<br>
   *Can add-delete-update movie session (TR.Film seansı ekleyebilir-silebilir-düzenleyebilir).<br>
