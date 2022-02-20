@@ -1,10 +1,16 @@
+View in raw, it will be more regular that way.
 # PHP-MySQL Cinema Automation System
 This project is language of PHP and it is coded in Turkish.
 An automation has an admin panel and a simple user panel.
 In automation;
 -In the admin panel;
-  *Adding new movie hall    (TR.Sinema salonu ekleyebiliyor).
-  *Adding new movie         (TR.film ekleyebiliyor).
-  *Adding new user          (TR.Yeni izleyici ekleyebiliyor).
-  *Adding new movie hall    (TR.Sinema salonu ekleyebiliyor).
-  *Adding new movie session (TR.Film seansı ekleyebiliyor).
+  *Can add-delete-update movie hall    (TR.Sinema salonu ekleyebilir-silebilir-düzenleyebilir).
+  *Can add-delete-update movie         (TR.film ekleyebilir-silebilir-düzenleyebilir).
+  *Can add-delete-update user          (TR.Yeni izleyici ekleyebilir-silebilir-düzenleyebilir).
+  *Can add-delete-update movie hall    (TR.Sinema salonu ekleyebilir-silebilir-düzenleyebilir).
+  *Can add-delete-update movie session (TR.Film seansı ekleyebilir-silebilir-düzenleyebilir).
+  *Can add-delete-update ticket        (TR.Bilet ekleyebilir-silebilir-düzenleyebilir).
+-In the user login;
+  *Can view movies         (TR.Filmleri görüntüleyebilir.).
+  *Can view own tickets    (TR.Biletlerine bakabilir).
+  *Can buy-sold tickets    (TR.Bilet alabilir-satabilir).
