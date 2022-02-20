@@ -6,10 +6,10 @@ In automation;<br>
   *Can add-delete-update movie hall    (TR.Sinema salonu ekleyebilir-silebilir-düzenleyebilir).<br>
   *Can add-delete-update movie         (TR.film ekleyebilir-silebilir-düzenleyebilir).<br>
   *Can add-delete-update user          (TR.Yeni izleyici ekleyebilir-silebilir-düzenleyebilir).<br>
-  *Can add-delete-update movie hall    (TR.Sinema salonu ekleyebilir-silebilir-düzenleyebilir).
-  *Can add-delete-update movie session (TR.Film seansı ekleyebilir-silebilir-düzenleyebilir).
-  *Can add-delete-update ticket        (TR.Bilet ekleyebilir-silebilir-düzenleyebilir).
--In the user login;
-  *Can view movies         (TR.Filmleri görüntüleyebilir.).
-  *Can view own tickets    (TR.Biletlerine bakabilir).
-  *Can buy-sold tickets    (TR.Bilet alabilir-satabilir).
+  *Can add-delete-update movie hall    (TR.Sinema salonu ekleyebilir-silebilir-düzenleyebilir).<br>
+  *Can add-delete-update movie session (TR.Film seansı ekleyebilir-silebilir-düzenleyebilir).<br>
+  *Can add-delete-update ticket        (TR.Bilet ekleyebilir-silebilir-düzenleyebilir).<br>
+-In the user login;<br>
+  *Can view movies         (TR.Filmleri görüntüleyebilir.).<br>
+  *Can view own tickets    (TR.Biletlerine bakabilir).<br>
+  *Can buy-sold tickets    (TR.Bilet alabilir-satabilir).<br>
