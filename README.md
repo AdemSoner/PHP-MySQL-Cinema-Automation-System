@@ -1,4 +1,4 @@
-View in raw, it will be more regular that way.
+View in raw, it will be more regular that way. \n
 https://raw.githubusercontent.com/AdemSoner/PHP-MySQL-Cinema-Automation-System/main/README.md
 # PHP-MySQL Cinema Automation System
 This project is language of PHP and it is coded in Turkish.
